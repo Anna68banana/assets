@@ -1,0 +1,9 @@
+"name": "WonderHero Token",
+    "symbol": "WND",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "WonderHero is a Blockchain NFT Play To Earn Mobile Game that lets users play a high graphics engaging mobile game and earn tokens to buy valuable NFT assets that is tradable. It has an open economy ecosystem that benefits serious and casual gamers with internal Yield System and staking mechanics. ",
+    "website": "https://www.wonderhero.io/",
+    "explorer": "https://bscscan.com/token/0xB2AA453B56b495cb95BC9fa72E7706B84e41EE54",
+    
+} 
